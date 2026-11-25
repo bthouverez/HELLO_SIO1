@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(int argc, char ** argv) {
-  printf("Bastien THOUVEREZ\n");
+  printf("Belkacem DAOUD\n");
   return 0;
 }
